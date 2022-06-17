@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Emma, an aspiring Data Analyst/Engineer based in Berlin.</h2>
+<h2 align="center">Hi! I'm Emma, an aspiring Data Analyst/Engineer based in Berlin.</h2>
 
-- 📫 How to reach me **emma.carballal.haire@gmail.com**
+📫 **emma.carballal.haire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
