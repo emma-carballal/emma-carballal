@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emma,</h1>
-<h3 align="center">an aspiring Data Analyst/Engineer based in Berlin.</h3>
+<h2 align="center">Hi, I'm Emma,</h1>
+<h2 align="center">an aspiring Data Analyst/Engineer based in Berlin.</h3>
 
 - 📫 How to reach me **emma.carballal.haire@gmail.com**
 
@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/emma-carballal-haire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emma-carballal-haire" height="30" width="40" /></a>
 <a href="https://kaggle.com/emmacarballal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emmacarballal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@carballal_emma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@carballal_emma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@carballal_emma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carballal_emma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
