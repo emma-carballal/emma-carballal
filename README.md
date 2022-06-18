@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Emma, an aspiring Data Analyst/Engineer based in Berlin.</h2>
+<h3 align="center">Hello! I'm Emma, an aspiring Data Analyst/Engineer based in Berlin.</h3>
 
 📫 **emma.carballal.haire@gmail.com**
 
