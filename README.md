@@ -1,4 +1,4 @@
-<h3 align="center">Hello! I'm Emma, an NLP developer based in Berlin.</h3>
+<h3 align="center">Hello! I'm Emma, a student of all things NLP, machine learning and Python based in Berlin.</h3>
 
 📫 **emma.carballal.haire@gmail.com**
 
